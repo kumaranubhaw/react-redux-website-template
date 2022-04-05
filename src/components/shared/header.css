@@ -1,0 +1,7 @@
+.company-logo {
+	height: 60px !important;
+}
+
+nav ul a {
+	color: var(--menu-text-color);	
+}
